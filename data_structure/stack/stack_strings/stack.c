@@ -82,6 +82,10 @@ item bottom(typeStack *stack)
 	return (s_bot);
 }
 
+// swap
+
+// rotate
+
 // 스택 출력
 void print(typeStack *stack)
 {
